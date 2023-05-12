@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="spark2">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\galcaraz\Desktop\merge_0809\spark2\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="spark_PKDDataLake2">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Desarrollos\red.es\repository\spark2\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="spark_PKDDataLake">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Desarrollos\NTTData\Desarrollos\red.es\repository\spark2\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="spark_example">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Desarrollos\spark_demo\spark_example\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
